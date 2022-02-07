@@ -1,5 +1,4 @@
 ### Hello there 👋
-###### General Kenobi. You are a bold one.
 
 
 I'm Anurag Bhardwaj but that's not very hard to deduce. I'm currently studying in the Electrical Engineering Department of Delhi Technological University (formerly Delhi College of Engineering).
