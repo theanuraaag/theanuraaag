@@ -1,20 +1,20 @@
-### Hello there 👋
 
+# Anurag Bhardwaj  
+*Full Stack Web Developer | React Enthusiast | Tech Explorer*  
 
-Hey there! I'm Anurag Bhardwaj, a student currently pursuing Electrical Engineering at Delhi Technological University (formerly Delhi College of Engineering). I have a genuine passion for web development and problem-solving, and I find immense joy in exploring the fascinating world of technology.
+I am a passionate and self-driven full-stack web developer with a B.Tech in Electrical Engineering from DTU. I specialize in building modern web applications using **React.js**, **Node.js**, and **MongoDB**, with a keen focus on front-end development. My journey in tech has led me to explore various fields including **IT** and **web development**.  
 
-Being a tech enthusiast, I'm always on the lookout for fun and interesting projects that allow me to learn and grow. I love the creative process of web development, from designing user-friendly interfaces to writing clean and efficient code. It's incredibly satisfying to bring ideas to life through coding and see the impact they can make in the digital realm.
+I’m always eager to learn new technologies and improve my skills. I enjoy solving complex problems, contributing to open-source projects, and staying up-to-date with the latest industry trends.  
 
-Apart from web development, I also enjoy engaging in problem-solving activities. The thrill of tackling complex challenges and finding elegant solutions keeps me motivated and inspired. I believe that problem-solving skills are invaluable in any tech-related field, and I'm constantly honing my abilities through practice and continuous learning.
+### 📚 **Technologies I Work With:**  
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS  
+- **Backend:** Node.js, Express, MongoDB  
+- **Languages:** JavaScript, Python, C++, Java  
+- **Tools & Libraries:** Firebase, Git, REST APIs  
 
-With a strong curiosity for all things tech, I'm excited to embark on this journey of exploration and knowledge. If you're interested, feel free to check out some of my repositories, where I share my projects and experiences. I'm always open to new opportunities and collaborations that allow me to contribute to the ever-evolving tech landscape.
+### 🚀 **Projects & Interests:**  
+- Building user-friendly web applications  
+- Exploring **React** ecosystem and state management  
+- Working on personal projects related to **web development** and **UI/UX**  
 
-In a nutshell, I'm Anurag Bhardwaj, a tech enthusiast with a passion for web development, problem-solving, and everything else that makes technology exciting. Together, let's embrace the endless possibilities that the world of tech has to offer!"
-
-Maybe take a look at some of my repositories?
-
-#
-![Anurag Bhardwaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=theanuraaag&count_private=true&show_icons=true&theme=radical)
-#
-
-
+Let’s connect! Feel free to explore my repositories, collaborate, or reach out if you’re interested in working together.
